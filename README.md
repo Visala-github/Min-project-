@@ -1,0 +1,13 @@
+# Mini Pandas/SQL Query System
+
+A Python CLI tool to perform SQL-like queries on CSV files using Pandas.
+
+## Features
+
+- Select specific columns
+- Filter rows with conditions
+- Group by and aggregate
+- Sort results
+
+## Usage
+
